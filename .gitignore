@@ -9,6 +9,9 @@ models/
 # data folder
 data/
 
+# datasets folder
+datasets/
+
 # C extensions
 *.so
 
